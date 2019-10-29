@@ -10,6 +10,12 @@ Sheets is a command line tool that helps in entry of data in an excel sheet.
 
 A user will name the Excel sheet to write data to. The program will then ask for all the columns that will be used to store data. Sheets then loops over all the columns given as it requests for the user to write data to each iterated column. When all columns in the first loop are filled, Sheets loops over to the next loop which is essentially the second row, and the user gets to fill all the columns in the second row(loop). This automated process will go on as long as the user is content that the Excel sheet has been written to his/her satisfaction.
 
+**Preview**
+![Image](https://github.com/Fahari/Sheets/blob/master/images/shot1.jpg)
+
+**Results**
+![Image](https://github.com/Fahari/Sheets/blob/master/images/shot3.jpg)
+
 ## Technologies Used
 ```
 1. Python 3.6.8 for linux
@@ -51,8 +57,8 @@ For the Unix diehards, to access this application you will need:
 ## Important!
 When giving column titles, always seperate them with a space.
 
-**Naming files.**
-![Image](https://github.com/Fahari/Sheets/blob/master/images/shot3.jpg)
+**Naming files & Column Titles.**
+![Image](https://github.com/Fahari/Sheets/blob/master/images/shot2.jpg)
 
 ## Saving Location
 Sheets saves the created excel file in Desktop.
