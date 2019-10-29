@@ -40,16 +40,13 @@ For the Unix diehards, to access this application you will need:
    $ pip3 install virtualenv
    $ virtualenv venv ( you can use any name rather than venv )
    $ source venv/bin/activate ( Activate the environment )
-5. Install XlsxWriter
-   $ pip3 install XlsxWriter
-6. Install Pyfiglet
-   $ pip3 install pyfiglet
-7. Download entry.py file from my repository and place it in your folder
-8. Fire up the application 
+5. pip3 install -r requirements.txt
+6. Download entry.py file from my repository and place it in your folder
+7. Fire up the application 
    $ python entry.py
-9. Exit program
+8. Exit program
    $ ctrl + c
-10. Exit virtual environment
+9. Exit virtual environment
    $ deactivate
 ```
 ## Important!
