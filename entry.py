@@ -1,3 +1,5 @@
+# Copyright 2019 Kironji Kevin
+
 from pyfiglet import Figlet
 import pyfiglet
 import os
